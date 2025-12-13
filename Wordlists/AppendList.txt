@@ -63,7 +63,9 @@ a@
 %E5%98%BE
 \x00
 \u0000
+\uffff
 \ud888
+\udc2a
 99999
  --help
  or 7=7
